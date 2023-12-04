@@ -1,0 +1,46 @@
+body{
+    background-color: darkgrey;
+    color: white;
+}
+
+.row.g-3{
+    display: flex;
+    align-items: center;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+label{
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+
+input{
+    box-shadow: 0 10px 18px 0 rgba(0,0,0,0.2), 0 8px 22px 0 rgba(0,0,0,0.19);
+}
+
+.btn-primary{
+    font-weight: 600;
+}
+
+.cabecario{
+    font-size: 46px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+    color: black;
+}
+
+
+
+#inputAddress{
+    width: 49.5%;
+}
+
+#inputAddress2{
+    width: 49.5%;
+}
